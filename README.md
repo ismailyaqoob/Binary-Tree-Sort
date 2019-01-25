@@ -1,5 +1,6 @@
 Binary Tree Sort
 ===
+Implementation of Binary Tree Sort
 
 Group Member
 ---
@@ -9,7 +10,7 @@ Group Member
 
 Project Description
 ---
-Implementation of Binary Tree Sort
+The project is of the implementation of Binary Tree Sort.
 
 Technology
 ---
