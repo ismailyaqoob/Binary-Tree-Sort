@@ -10,14 +10,23 @@ Group Member
 
 Project Description
 ---
-The project is of the implementation of Binary Tree Sort.
+The project is of the implementation of binary tree sort. Binary tree sort is implemented using binary search tree so that it allows dynamically data-set in sorted order. We can Insert infinite data in sorted order and by performing inorder traversal we can check the data in sorted order.
 
 Technology
 ---
-C#
+The project is built on **Visual Studio 2017**
 
-How to Compile
+Programming Language **C#**
+
+.Net Framework 4.5
+
+How to Compile?
 ---
-Require .Net Framework
+First of all download the project then you need Visual Studio to run the project. If you have already installed Visual Studio then go to the folder of **BinaryTreeSort** then open **BinaryTreeSort.sln** then press **Ctrl+F5** to exacute the code.
 
-**IDE:** Visual Studio
+*****Note:** The project is built on .Net Framework 4.5 if you ha older version then you can run the project by setting the version of .Net Framework according to you.***
+
+Visual Representaion
+---
+Refer to the image [Poster Binary Tree Sort](Binary-Tree-Sort/Poster.jpg)
+      
