@@ -22,11 +22,11 @@ Programming Language **C#**
 
 How to Compile?
 ---
-First of all download the project then you need Visual Studio to run the project. If you have already installed Visual Studio then go to the folder of **BinaryTreeSort** then open **BinaryTreeSort.sln** then press **Ctrl+F5** to exacute the code.
+First of all download the project then you need Visual Studio to run the project. If you have already installed Visual Studio then go to the folder of **BinaryTreeSort** then open **BinaryTreeSort.sln** then press **Ctrl+F5** to execute the code.
 
-*****Note:** The project is built on .Net Framework 4.5 if you ha older version then you can run the project by setting the version of .Net Framework according to you.***
+*****Note:** The project is built on .Net Framework 4.5 if you have older version then you can run the project by setting the version of .Net Framework according to you.***
 
 Visual Representaion
 ---
-Refer to the image [Poster Binary Tree Sort](Binary-Tree-Sort/Poster.jpg)
+Refer to the image [Poster Binary Tree Sort](https://github.com/ismailyaqoob/Binary-Tree-Sort/blob/master/Poster.jpg)
       
