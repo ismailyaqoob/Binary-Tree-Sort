@@ -26,7 +26,6 @@ First of all download the project then you need Visual Studio to run the project
 
 *****Note:** The project is built on .Net Framework 4.5 if you have older version then you can run the project by setting the version of .Net Framework according to you.***
 
-Visual Representaion
+Visual Representation
 ---
 Refer to the image [Poster Binary Tree Sort](https://github.com/ismailyaqoob/Binary-Tree-Sort/blob/master/Poster.jpg)
-      
